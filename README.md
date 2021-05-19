@@ -1,6 +1,7 @@
 - Hey, I’m @gxzass
+- Experienced in HTML and CSS
 - I’m interested in getting better in Python
-- I’m currently learning: Python, Html
-- If you want to contact me add me on discord *gxzs#8905*, 
-  or join my discord server *https://discord.gg/zK7AcwyS*
+- I’m currently learning: Python (3 Months)
+- If you want to contact me add me on discord *gxzs#3448*, 
+  or join my discord server *https://discord.gg/gVYycVfv*
 
