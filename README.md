@@ -1,6 +1,6 @@
 # G X Z S
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxzass&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxzass&show_icons=true&theme=dracula)
 
 
 ![](https://komarev.com/ghpvc/?username=gxzass&color=blue) 
