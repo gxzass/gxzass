@@ -11,7 +11,7 @@
 * ˚ ✦ *2 Years of python*
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
-![](https://komarev.com/ghpvc/?username=gxzass&color=47a6ff)
-![](https://discordapp.com/api/guilds/t/widget.png?style=shield)
+![](https://komarev.com/ghpvc/?username=gxzass&color=384f73)
+![](https://img.shields.io/discord/844548529141186570?color=384f73&label=Discord%20%3C3&logo=384f73&logoColor=384f73)
 
 
