@@ -12,5 +12,6 @@
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
 ![](https://komarev.com/ghpvc/?username=gxzass&color=47a6ff)
+![](https://discordapp.com/api/guilds/853013866811752478/widget.png?style=shield)
 
 
