@@ -11,6 +11,6 @@
 * ˚ ✦ *2 Years of python*
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
-![](https://komarev.com/ghpvc/?username=gxzass&color=0d1117)
+![](https://komarev.com/ghpvc/?username=gxzass&color=47a6ff)
 
 
