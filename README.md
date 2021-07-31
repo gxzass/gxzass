@@ -4,6 +4,7 @@
 
 ## 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘴
 ![](https://github-readme-stats.vercel.app/api?username=gxzass&hide=prs,contribs&title_color=539bf5&icon_color=539bf5&text_color=efefef&bg_color=0000&show_icons=true)
+
 ![](https://komarev.com/ghpvc/?username=gxzass&color=384f73)
 
 ## 𝘢𝘣𝘰𝘶𝘵
