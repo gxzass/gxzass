@@ -4,6 +4,7 @@
 
 ## 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘴
 ![](https://github-readme-stats.vercel.app/api?username=gxzass&hide=prs,contribs&title_color=539bf5&icon_color=539bf5&text_color=efefef&bg_color=0000&show_icons=true)
+![](https://komarev.com/ghpvc/?username=gxzass&color=384f73)
 
 ## 𝘢𝘣𝘰𝘶𝘵
 * ˚ ✦ *Available for freelance*
@@ -11,7 +12,6 @@
 * ˚ ✦ *2 Years of python*
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
-![](https://komarev.com/ghpvc/?username=gxzass&color=384f73)
-![](https://img.shields.io/discord/844548529141186570?color=384f73&label=Discord%20%3C3&logo=384f73&logoColor=384f73)
+
 
 
