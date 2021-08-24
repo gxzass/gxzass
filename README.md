@@ -9,7 +9,7 @@
 
 ## 𝘢𝘣𝘰𝘶𝘵
 * ˚ ✦ *Available for freelance*
-* ˚ ✦ *5 Years of html/css*
+* ˚ ✦ *4 Years of html/css*
 * ˚ ✦ *2 Years of python*
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
