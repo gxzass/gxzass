@@ -14,4 +14,4 @@
 * ˚ ✦ *1 Year of dart*
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
-[Discord](https://discord.gg/vtRFWaQMAF) // [Twitter](https://twitter.com/gxzass) // [Pinterest](https://nl.pinterest.com/GXZS01) 
+[Discord](https://discord.gg/g2p97xBjMy) // [Twitter](https://twitter.com/gxzass) // [Instagram](https://instagram.com/gxzass) 
