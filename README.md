@@ -9,10 +9,9 @@
 
 ## 𝘢𝘣𝘰𝘶𝘵
 * ˚ ✦ *Available for freelance*
-* ˚ ✦ *4 Years of html/css*
+* ˚ ✦ *4 Years of html/css/js*
 * ˚ ✦ *2 Years of python*
+* ˚ ✦ *1 Year of dart, ts*
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
-[Discord](https://discord.gg/vtRFWaQMAF) // [Twitter](https://twitter.com/gxzass) // [Pinterest](https://nl.pinterest.com/GXZS01) // [Spotify](https://open.spotify.com/user/jasper_knapevandijk)
-
-
+[Discord](https://discord.gg/vtRFWaQMAF) // [Twitter](https://twitter.com/gxzass) // [Pinterest](https://nl.pinterest.com/GXZS01) 
