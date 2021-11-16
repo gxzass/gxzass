@@ -8,8 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=gxzass&color=539bf5)
 
 ## 𝘢𝘣𝘰𝘶𝘵
-* ˚ ✦ *Available for freelance *
-* ˚ ✦ *Experienced in: py, js, html, css, go, dart *
+* ˚ ✦ *Available for freelance*
+* ˚ ✦ *Experienced in: py, js, html, css, go, dart*
 
 ## 𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭
 [Discord](https://discord.gg/g2p97xBjMy) // [Twitter](https://twitter.com/gxzass) // [Instagram](https://instagram.com/gxzass) // [Website](https://gxzs.info) 
