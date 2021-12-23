@@ -1,4 +1,4 @@
-## 𝘨𝘹𝘻𝘴
+## gx
 
 ![](https://i.gifer.com/Fa1N.gif)
 
